@@ -18372,7 +18372,6 @@ iframe {
     top: -160px;
     left: -30px;
     z-index: -1;
-    background-image: url(../images/header-logo-shape.svg);
     width: 276px;
     height: 301px;
     transition: height .3s ease-in-out
