@@ -18269,7 +18269,7 @@ iframe {
         padding: 10px;
         margin: 0 10px;
         transition: all .2s ease-in-out;
-        color: var(--bs-secondary)
+        color: var(--bs-white)
     }
 
     .header-navbar .navbar-nav li .nav-link::after {
@@ -20606,4 +20606,8 @@ iframe {
 .carousel-fade .active.carousel-item-start,
 .carousel-fade .active.carousel-item-end {
     transition: opacity 0s 2.6s;
+}
+.header-custom
+{
+    background-image: linear-gradient(to right, #7F8C8D ,#000000)
 }
