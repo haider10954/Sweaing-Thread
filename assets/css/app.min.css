@@ -20608,5 +20608,6 @@ iframe {
 }
 .header-custom
 {
-    background-image: linear-gradient(to right, #7F8C8D ,#000000)
+    background-color: #353535;
+    /* background-image: linear-gradient(to right, #7F8C8D ,#000000) */
 }
