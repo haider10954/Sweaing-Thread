@@ -19597,7 +19597,11 @@ iframe {
 }
 
 .testimonial-style .testimonial-content::before {
-    content: url(../images/quote-icon.svg)
+    content: url(../images/Qomas.svg);
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
 }
 
 .testimonial-style .testimonial-image {
