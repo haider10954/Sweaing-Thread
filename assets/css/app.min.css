@@ -20500,7 +20500,7 @@ iframe {
     left: 0;
     right: 0;
     display: block;
-    height: 800px;
+    height: 350px;
     z-index: -1
 }
 
@@ -20612,6 +20612,29 @@ iframe {
 }
 .header-custom
 {
-    background-color: #353535;
+    background-color: #353535 !important;
     /* background-image: linear-gradient(to right, #7F8C8D ,#000000) */
+}
+.main-banner
+{
+    height: 90vh;
+    background: url("/assets/images/sewing-kit.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.main-banner div
+{
+    width: 50%;
+    margin-left: 3%;
+    background-color: #ffffffb0;
+    backdrop-filter: blur(5px);
+    padding: 12px;
+
+}
+.bg-blue
+{
+    background-color: blue;
 }
