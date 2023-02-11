@@ -20488,7 +20488,7 @@ iframe {
     -webkit-animation: rotate 5s ease-out .5s alternate infinite none running;
     animation: rotate 5s ease-out .5s alternate infinite none running;
     z-index: -1;
-    height: 645px
+    height: 590px
 }
 
 .footer-gradient::before {
@@ -20500,7 +20500,7 @@ iframe {
     left: 0;
     right: 0;
     display: block;
-    height: 350px;
+    height: 250px;
     z-index: -1
 }
 
@@ -20637,4 +20637,28 @@ iframe {
 .bg-blue
 {
     background-color: blue;
+}
+.slide-textile-1
+{
+    background-image: url("/assets/images/textile-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+}
+.slide-textile-2
+{
+    background-image: url("/assets/images/textile-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+}
+.slide-textile-3
+{
+    background-image: url("/assets/images/textile-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
 }
