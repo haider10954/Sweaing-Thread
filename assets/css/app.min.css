@@ -18378,7 +18378,7 @@ iframe {
 }
 
 .header-navbar .navbar-brand img {
-    max-height: 50px;
+    max-height: 60px;
     -o-object-fit: contain;
     object-fit: contain
 }
@@ -20661,4 +20661,8 @@ iframe {
     background-repeat: no-repeat;
     background-position: center;
     height: 90vh;
+}
+.logo-2
+{
+
 }
