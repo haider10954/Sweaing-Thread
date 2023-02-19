@@ -20666,3 +20666,15 @@ iframe {
 {
 
 }
+.custom-height
+{
+    height: 250px;
+}
+.custom-height2
+{
+height: max-content !important;
+}
+.podcast-content h5
+{
+    min-height: 60px;
+}
